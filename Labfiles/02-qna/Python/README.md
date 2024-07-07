@@ -2,6 +2,12 @@
 
 The project demonstrates how to use Azure AI Language's question answering capability to create a simple interactive FAQ system.
 
+## Configuration
+
+```bash
+export AI_SERVICE_ENDPOINT='https://<your-qna>.cognitiveservices.azure.com/'
+```
+
 ## Use Cases
 
 1. **Interactive FAQ System**:
